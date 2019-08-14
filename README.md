@@ -19,6 +19,7 @@ The program has the
  <li>
   <ol>Operators</ol>
   <ol>Scope</ol>
+  <ol>String Formatting/Manipulation</ol>
   <ol>Variables</ol>
   <ol>Loops</ol>
   <ol>Conditionals</ol>
