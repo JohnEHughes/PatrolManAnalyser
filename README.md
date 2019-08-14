@@ -16,18 +16,20 @@ The program has the
 </p>
 
 <b>Concepts Covered</b>
- <li>
-  <ol>Operators</ol>
-  <ol>Scope</ol>
-  <ol>String Formatting/Manipulation</ol>
-  <ol>Variables</ol>
-  <ol>Loops</ol>
-  <ol>Conditionals</ol>
-  <ol>Methods/Arguments</ol>
-  <ol>External Libraries:
-    <ul>Date Time</ul>
-    <ul>XlsxWriter</ul>
-    <ul>csv</ul>
-    <ul>Tkinter GUI</ul>
-  </ol>
-</li>
+ <ol>
+  <li>Operators</li>
+  <li>Scope</li>
+  <li>String Formatting/Manipulation</li>
+  <li>Variables</li>
+  <li>Loops</li>
+  <li>Conditionals</li>
+  <li>Methods/Arguments</li>
+  <li>External Libraries:
+    <ul>
+     <li>Date Time</li>
+     <li>XlsxWriter</li>
+     <li>csv</li>
+     <li>Tkinter GUI</li>
+   </ul>
+  </li>
+</ol>
