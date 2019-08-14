@@ -12,7 +12,6 @@ I have added a 'Run Report' button which produces an excel report detailing the 
 
 To go along with the main program file are three csv files that house the master point sheets for each patrol that the python program compares against.
 
-The program has the 
 </p>
 
 <b>Concepts Covered</b>
